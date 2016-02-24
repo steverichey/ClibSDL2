@@ -1,5 +1,5 @@
 module ClibSDL2 [system] {
-  header "/usr/local/Cellar/sdl2/2.0.4/include/SDL2/SDL.h"
+  header "/usr/local/include/SDL2/SDL.h"
   link "libsdl2"
   export *
 }
